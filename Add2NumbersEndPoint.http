@@ -1,0 +1,6 @@
+@Add2NumbersEndPoint_HostAddress = http://localhost:5114
+
+GET {{Add2NumbersEndPoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
