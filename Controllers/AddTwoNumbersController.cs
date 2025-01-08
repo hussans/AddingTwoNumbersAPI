@@ -12,7 +12,7 @@ namespace Add2NumbersEndPoint.Controllers
         public string GetSum(int num1, int num2)
         {
             int result = num1 + num2;
-            return $"{num1} + {num2} = {result}";
+            return $"The sum of {num1} + {num2} is equal to {result}";
         }
 
     }

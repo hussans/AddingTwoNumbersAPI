@@ -30,3 +30,4 @@
 /Users/hassan/Documents/codestack/level two/week 1/Add2NumbersEndPoint/obj/Debug/net8.0/Add2NumbersEndPoint.pdb
 /Users/hassan/Documents/codestack/level two/week 1/Add2NumbersEndPoint/obj/Debug/net8.0/Add2NumbersEndPoint.genruntimeconfig.cache
 /Users/hassan/Documents/codestack/level two/week 1/Add2NumbersEndPoint/obj/Debug/net8.0/ref/Add2NumbersEndPoint.dll
+/Users/hassan/Documents/codestack/level two/week 1/Add2NumbersEndPoint/obj/Debug/net8.0/Add2NumbersEndPoint.sourcelink.json
